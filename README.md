@@ -1,4 +1,4 @@
 kwopera.github.io
 =================
 
-Just a Personal Blog
+Just a blog
