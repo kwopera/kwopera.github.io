@@ -1,3 +1,5 @@
 name: 传奇居家男
 markdown: redcarpet
 pygments: true
+date_format: "ordinal"
+
