@@ -21,8 +21,23 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
+h1 {
+    font-family: Tahoma;
+    font-size:80%;
+}
+h2, h3 {
+    font-family: STKaiti;
+}
 
-h1 { margin-bottom: 1em; }
+h2 { 
+    margin: 1em 0 1em 0;
+    font-size:140%;
+}
+h3 {
+    margin 2em 0 2em 0;
+    font-size:120%
+}
+
 p { margin: 1em 0; line-height:2em; }
 
 a         { color: #00a; }
