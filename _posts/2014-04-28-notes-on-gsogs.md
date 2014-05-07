@@ -1,5 +1,5 @@
 ---
-title: GSOGS笔记
+title: GSOGS读书笔记
 layout: post
 ---
 
