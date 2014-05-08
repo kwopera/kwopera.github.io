@@ -1,5 +1,5 @@
 ---
-title: GSOGS读书笔记 - Nicolai Gedda
+title: "GSOGS读书笔记 - Nicolai Gedda"
 layout: post
 ---
 
