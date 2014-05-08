@@ -18,3 +18,8 @@ layout: post
 "Another rule is whatever you sing, in whatever position, or key, the consonant with which you start a word should be on the same height as your vowel. "
 这点在Gedda的演唱中非常的明显, 他的辅音永远是和他后面元音在一个音高上的, 最明显的是r和m,n等浊辅音, 但是他说了其它的辅音也要有一样的位置, 个人觉得这点非常重要.
 
+"She also taught me the sorriso [smile] postition of the mouth...a slight smile."
+稍抬笑肌, 这点我觉得对于高位置很重要, 当然我也经常忘记...
+
+
+

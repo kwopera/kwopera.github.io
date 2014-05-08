@@ -1,4 +1,4 @@
-name: 烂笔头儿
+name: 各种笔记
 markdown: redcarpet
 pygments: true
 date_format: "ordinal"
