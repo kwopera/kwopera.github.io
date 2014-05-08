@@ -19,7 +19,8 @@ layout: post
 这点在Gedda的演唱中非常的明显, 他的辅音永远是和他后面元音在一个音高上的, 最明显的是r和m,n等浊辅音, 但是他说了其它的辅音也要有一样的位置, 个人觉得这点非常重要.
 
 "She also taught me the sorriso [smile] postition of the mouth...a slight smile."
-稍抬笑肌, 这点我觉得对于高位置很重要, 当然我也经常忘记...
+稍抬笑肌, 这点我觉得对于高位置很重要, 当然我也经常忘记...一般对于需要时刻注意位置的作品我会更注意笑肌 - 比如Rigoletto, Don Pasquale一类. 但是其实位置应该是时刻注意的, 这是一个我技巧上需要更加注意和改进的地方.
 
-
+"Head voice to me means the falsetto. That is a tone that is absolutely not supported. I have learned to sing a very high mezza voce, and I always support it. I can't sing falsetto anymore"
+这里下面
 
