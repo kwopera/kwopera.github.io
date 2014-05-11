@@ -12,4 +12,4 @@ layout: post
 
 >The twenty-six or twenty-eight-year-old in any other field of endeavor is already climbing the corporate ladder; a singer is usually in the midst of intensive study.
 
-20多岁快30的人在其它领域基本都已经开始在公司往上爬了, 但是这个年龄的歌手大多还在紧张的学习, 幸运的可以靠歌唱赚点小钱, 更多的歌手则是不得不做些兼职来养活自己, 有很多人不得不在超市工作, 在快餐店/酒吧打工
+20多岁快30的人在其它领域基本都已经开始在公司往上爬了, 但是这个年龄的歌手大多还在紧张的学习, 幸运的可以靠歌唱赚点小钱, 更多的歌手则是不得不做些兼职来养活自己, 有很多人不得不在超市工作, 在快餐店/酒吧打工这时朋友和家人的支持很重要, 但是更重要的是歌手自己的心态, 书里写到"What you do is those things; what you are is an opera singer" - 书里讲到这其实就是为了让年轻的歌手明白这是正常的, 虽然现在你做着这些不起眼的工作, 但是要分清糊口的工作与你终生事业的区别, 永远要为机会做好准备. 
