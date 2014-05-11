@@ -1,5 +1,5 @@
 ---
-title: "Complete Prepartion"读书笔记(一)
+title: Complete Prepartion读书笔记(一)
 layout: post
 ---
 开篇最有道理的一句话:
