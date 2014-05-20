@@ -1,5 +1,5 @@
 ---
-title: Complete Prepartion读书笔记(第一章)
+title: Complete Preparation读书笔记(第一章)
 layout: post
 ---
 开篇最有道理的一句话:
