@@ -1,9 +1,9 @@
 ---
-Title: MAC OSX上用免费软件复制正版DVD
+title: MAC OSX上用免费软件复制正版DVD
 layout: post
-Date: 2013-06-07
-Category: 苹果
-Tags: OSX, Apple, DVD, MAC
+date: 2013-06-07
+category: 苹果
+tags: OSX, Apple, DVD, MAC
 ---
 以前写过一篇关于复制正版DVD的文章, 换了苹果机以后那些工具都用不上了, 前天正好需要帮朋友复制一张买来的正版的曹秀美音乐会的DVD, 在网上找了一下没有什么好用又免费的一条龙服务式的软件可以在OSX上干这个, 最后想了个办法, 总结了一套工具, 顺手发篇博客做备忘.
 
