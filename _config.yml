@@ -1,4 +1,4 @@
 name: 各种笔记
-pygments: true
+hightlighter: touge
 date_format: "ordinal"
 
