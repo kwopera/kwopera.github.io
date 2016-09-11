@@ -2,7 +2,7 @@
 title: "GSOGS读书笔记 - Nicolai Gedda"
 layout: post
 ---
-
+test
 "Your posture must always be erect. It's very important, when you are on the stage, to hold the chest as high as possible"
 与我个人的理解稍有出入, 第一句说站姿要始终要笔直非常对, 不过胸是不是始终挺得太高了也不太好..
 
