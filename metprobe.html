@@ -23,9 +23,9 @@ tomorrow = mmtmr + ddtmr;
 today = mm + dd;
 document.write(today);
 document.write(tomorrow);
-if(window.location.href.indexOf("rev") > -1) {
+if(window.location.href.indexOf("todayrev") > -1) {
   window.location.href = "http://metrehearsal.org/uploads/archives/" + today + "rev.pdf"; 
-}else if(window.location.href.indexOf("tmr") > -1) {
+}else if(window.location.href.indexOf("tomorrow") > -1) {
   window.location.href = "http://metrehearsal.org/uploads/archives/" + tomorrow + ".pdf";
 }else if(window.location.href.indexOf("tmrrev") > -1) {
   window.location.href = "http://metrehearsal.org/uploads/archives/" + tomorrow + "rev.pdf";
