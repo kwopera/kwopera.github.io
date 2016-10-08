@@ -23,6 +23,11 @@ tomorrow = mmtmr + ddtmr;
 today = mm + dd;
 document.write(today);
 document.write(tomorrow);
+var delay=2000; //1 second
+
+setTimeout(function() {
+  //your code to be executed after 1 second
+}, delay);
 if(window.location.href.indexOf("todayrev") > -1) {
   window.location.href = "http://metrehearsal.org/uploads/archives/" + today + "rev.pdf"; 
 }else if(window.location.href.indexOf("tomorrow") > -1) {
