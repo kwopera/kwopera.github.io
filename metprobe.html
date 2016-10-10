@@ -6,22 +6,23 @@ var mm = today.getMonth()+1;
 var ddtmr = tomorrow.getDate();
 var mmtmr = tomorrow.getMonth()+1;
 if(dd<10) {
-    dd='0'+dd
+    dd ='0'+ dd
 } 
 
 if(mm<10) {
-    mm='0'+mm
+    mm ='0'+ mm
 } 
 if(ddtmr<10) {
-    ddtmr='0'+ddtmr
+    ddtmr = '0'+ ddtmr
 } 
 
 if(mmtmr<10) {
-    mmtmr='0'+mmtmr
+    mmtmr = '0'+ mmtmr
 }
-tomorrow = mmtmr + ddtmr;
-today = mm + dd;
+tomorrow = '' + mmtmr + ddtmr;
+today = '' + mm + dd;
 document.write("Loading...");
+document.write(tomorrow);
 var delay=1000; 
 setTimeout(function() {
 if(window.location.href.indexOf("todayrev") > -1) {
@@ -33,5 +34,5 @@ if(window.location.href.indexOf("todayrev") > -1) {
 }else{
   window.location.href = "http://metrehearsal.org/uploads/archives/" + today + ".pdf";
 }
-}, delay)
+}, delay);
 </script>
