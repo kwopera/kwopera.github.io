@@ -23,14 +23,14 @@
   //document.write(tomorrow);
   var delay=1000; //Change this to higher value to get bookmark/add to home button on iPhone
   setTimeout(function() {
-  if(window.location.href.indexOf("todayrev") > -1) {
-    window.location.href = "http://metrehearsal.org/uploads/archives/" + today + "rev.pdf"; 
-  }else if(window.location.href.indexOf("tomorrow") > -1) {
-    window.location.href = "http://metrehearsal.org/uploads/archives/" + tomorrow + ".pdf";
-  }else if(window.location.href.indexOf("tmrrev") > -1) {
-    window.location.href = "http://metrehearsal.org/uploads/archives/" + tomorrow + "rev.pdf";
-  }else{
-    window.location.href = "http://metrehearsal.org/uploads/archives/" + today + ".pdf";
-  }
+    if(window.location.href.indexOf("todayrev") > -1) {
+      window.location.href = "http://metrehearsal.org/uploads/archives/" + today + "rev.pdf"; 
+    }else if(window.location.href.indexOf("tomorrow") > -1) {
+      window.location.href = "http://metrehearsal.org/uploads/archives/" + tomorrow + ".pdf";
+    }else if(window.location.href.indexOf("tmrrev") > -1) {
+      window.location.href = "http://metrehearsal.org/uploads/archives/" + tomorrow + "rev.pdf";
+    }else{
+      window.location.href = "http://metrehearsal.org/uploads/archives/" + today + ".pdf";
+    }
   }, delay);
 </script>
