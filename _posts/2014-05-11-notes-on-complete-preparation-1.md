@@ -1,5 +1,5 @@
 ---
-title: Complete Preparation读书笔记(第一章)
+title: 读Complete Preparation有感(一)
 layout: post
 ---
 
