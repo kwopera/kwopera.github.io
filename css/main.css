@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
     background-color: #FFF;
-    font-family: STFangSong, Tahoma, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑",  SimSun, "宋体", Heiti, "黑体", sans-serif;
+    font-family: STXihei, Tahoma, "华文细黑", "Microsoft YaHei", "微软雅黑",  SimSun, "宋体", Heiti, "黑体", sans-serif;
     font-size: 18px;
     text-align: center;
 }
