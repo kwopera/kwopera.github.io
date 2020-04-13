@@ -73,10 +73,9 @@ a:visited { color: #a0a; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 90%;
+  width: 42em;
   margin: 3em auto 2em;
   line-height: 2em;
-  padding: 10%;
 }
 
 .header a {
