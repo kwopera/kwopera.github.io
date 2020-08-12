@@ -11,7 +11,7 @@ layout: post
 每次拿到一部新作品，我喜欢边听各种录音边尝试一些困难的段落，了解一下整部作品的大概结构。荧光笔画歌词、谱本上用彩色标签贴出自己唱段的开始页这些步骤大家应该都会做。如果是一部比较长的作品，比如古诺的五幕歌剧《罗密欧与茱莉叶》我会按照大概的气口把每一句画上序列号，罗密欧这个角色我一共标出了100句，再把这100句分成几个部分，分块学习，否则总有一种永远学不完的感觉。
 
 我通常会在手机和电脑上用Todoist做计划，之前也用过Things 3、OmniFocus和Org-Mode，工具只是次要的，能帮助我完成任务才是关键。
-![Org-Mode是一种纯文字的任务管理系统](http://upload-images.jianshu.io/upload_images/40675-0eaa997166c14dc1.jpg)
+![Org-Mode是一种纯文字的任务管理系统](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoal13tcgj30pg095mze.jpg)
 我会先把一部歌剧按序号或者幕分成几个部分，每个部分下面列出不需要重复的任务比如像这样：
 
 * 茶花女
@@ -25,34 +25,34 @@ layout: post
         * 制作练习用的录音
 
 每天只完成一段中的几个任务，这样效率更高也不会觉得很累，不知不觉就把整部歌剧的准备工作做完了。
-![Todoist中的任务列表，使用起来更直观](http://upload-images.jianshu.io/upload_images/40675-1e4601538587836f.jpg)
+![Todoist中的任务列表，使用起来更直观](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoalnplo0j30u01mdgpv.jpg)
 
 ## 语言
 
 为了更快完成任务，我通常会偷懒先从Nico Castel(大都会的一名男高音出版的歌词字对字英文翻译及音标的书)的书上把所有人的歌词翻译抄到歌谱上，再把自己的翻译和音标也抄上，然后把某些自己歌词中比较关键的词单独翻译一下，很多时候会在我觉得更合适的情况下替换掉Castel书中的翻译。
-![Nico Castel系列书籍有字对字的音标及翻译](http://upload-images.jianshu.io/upload_images/40675-4e70a078e8b0faa7.gif)
+![Nico Castel系列书籍有字对字的音标及翻译](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoalyvrhng30dw0ci0t4.gif)
 
 之后我会找一个语言指导帮我较正，再帮我把需要强调的单词或者音节标出来，这样读和唱的时候不会太像在念经，哈哈，如果身边没有语言指导，也可以靠自己对语言的理解以及大师们的录音来寻找其中的规律，这方面有很多书籍也可以帮助我，比如最近一位老师送了我一本讲解歌唱时英语发音的书：
-![Kathryn LaBouff 女士写的《用英语歌唱与交流》](https://upload-images.jianshu.io/upload_images/40675-4ab4079247ea7a34.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Kathryn LaBouff 女士写的《用英语歌唱与交流》](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoam4eqcwj30u0129432.jpg)
 
  有些不太好理解的单词我还会再写上对应的中文翻译，太诗意的句子我也会用中文写上个易懂的潜台词。另外我会用其它颜色的荧光笔把所有的意大利语双辅音都画出来，这样眼睛一看到不同的颜色就直接有反应，对我来说更容易记忆。
-![多尼采蒂的《拉美莫尔的露琪亚》选段](https://upload-images.jianshu.io/upload_images/40675-15e9cc0eaca85a1b.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![多尼采蒂的《拉美莫尔的露琪亚》选段](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoambkw0ij30yg0t5dlt.jpg)
 
 很多时候作曲家(比如马斯内)的风格其实都明明白白的写在谱子上了，在维特和夏洛特的二重唱段中，谱子上会在有些语句旁标着avec ardeur或是violemment等等，把这些都自己提前翻译好并唱出来，就可以在跟艺术指导的课中节省很多时间。
 
 做这些工作时我会用到Collins的在线词典，还有欧陆或者有道词典的手机版，意大利语有一个Zingarelli词典很好用。
-![我的手机上关于语言学习的App](http://upload-images.jianshu.io/upload_images/40675-16ee25e8a4ec1cc6.jpg)
+![我的手机上关于语言学习的App](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoamjp25sj30u60u079x.jpg)
 
 因为这个工作有时候比较枯燥，我会用一些帮助我提高注意力的手机app，比如有一款类似蕃茄钟的软件叫Forest 专注森林，每次设置好15-25分钟的时间集中注意力工作，完成以后休息个5分钟再继续，因为人的注意力毕竟是一种有限的资源，这样分块的工作可以让我效率更高。
-![Forest 专注森林 App](http://upload-images.jianshu.io/upload_images/40675-e17b4e16bd45beaa.jpg)
+![Forest 专注森林 App](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoamql91ej30hs0qoabl.jpg)
 
 ## 节奏
 
 节奏上我在澳洲时的老师喜欢标上拍子的序号，1、2、3、4 这样，我也用过这种办法，确实会有一些帮助。
-![莫扎特的《魔笛》选段](https://upload-images.jianshu.io/upload_images/40675-e99eba62ddd7a894.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![莫扎特的《魔笛》选段](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoan9umazj30x90u0af1.jpg)
 
 但我更喜欢用自己发明的一种画格子的笨方法，比如这个小节是4分音符为一拍，一小节4拍，我就会把在同一拍的音符和休止号都用线画在一起，画出四个格子来，唱的时候到哪一拍了对我来说就非常一目了然，现在基本上唱任何作品我都会这样画格子，我觉得对我自己在节拍上的问题帮助很大。
-![门德尔松的《伊利亚》选段](https://upload-images.jianshu.io/upload_images/40675-4bafe642acf6a88f.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![门德尔松的《伊利亚》选段](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoangedymj30yg0rm0zr.jpg)
 
 节拍画好以后我会先带着节奏读词，尤其是喧叙调旋律或者节奏比较难的作品，有一个艺术指导教过我让我一边按节奏读词，一边指挥自己，我觉得对我很有帮助。
 
@@ -69,14 +69,14 @@ layout: post
 每次这种全面准备只是在理想情况下，如果时间很紧或者是拖延癌晚期的话就不一定都能做到，但我尽量还是会提早准备，因为还要留出背诵的时间。
 
 对我来说最好的情况是每一句学和唱一起记忆，而不是先全背下来再研究唱的时候的问题，因为这样肌肉记忆已经错了。我背得最快的办法是在声乐课或者艺术指导课中反复的磨，很多时候有的段落如果在课上与老师细细的推敲过，会发现已经很自然的背下来了，比如在我学莎乐美中的Narraboth这个角色的时候，课上得太细了，没有刻意去背我已经把整个角色背熟了(当然了，这个角色比较短)。
-![背罗密欧时准备的四页歌词对照卡中的第一页](http://upload-images.jianshu.io/upload_images/40675-2660eba9b7f8bf33.jpg)
+![背罗密欧时准备的四页歌词对照卡中的第一页](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoannxuaij312u0u048f.jpg)
 
 如果一定要另外找时间背诵的作品，我喜欢把今天要背的歌词手写下来，睡前背一次，早上睡醒再背一次，不知道为什么我总觉得手写过一次背得比较快。我还会在Word里制作一张打印在A4纸上的歌词及翻译对照卡，分成三栏折叠起来放在兜里随时随地拿出来复习。
 
 ## 巩固
 
 为了做好排练前的准备，我还需要熟悉重唱中别人的唱段以及乐队的伴奏。我会挑选自己喜欢的大师录音，在电脑上用Audacity这个软件把有自己唱段的部分剪下来做成一个合集每天反复听，边听边跟着小声哼唱背诵，让自己的唱段变成一种条件反射，就可以应付排练中没有指挥或者提词人帮助的情况，等排练开始时在音乐、演唱方面可以从容自如。
-![Audacity是最好的免费音频处理软件之一](http://upload-images.jianshu.io/upload_images/40675-03da55ee432aa039.jpg)
+![Audacity是最好的免费音频处理软件之一](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoanu9b55j30or0fuq83.jpg)
 
 
 ## 舞台走位及表演
@@ -84,17 +84,16 @@ layout: post
 如果提前知道歌剧院要做哪一个制作，我会事先研究同一个制作之前留下的视频，以便提前了解导演对作品和各个人物的大概诠释，提前了解我自己大概的舞台走位，到了排练开始的时候便胸有成竹，可以节省很多时间，不需要导演或是助理导演一步一步的教我。
 
 至于表演，在剧院时导演或者助理导演教我的大多是以动机为中心的表演，如果有兴趣的朋友可以自己查一下斯坦尼斯拉夫斯基体系（英文叫 Stanislavski's system，好像电影《喜剧之王》里星爷总是捧着的那本《演员的自我修养》就是这位大师写的）。
-![我曾一度以为星爷电影里的这本书只是用来搞笑的……](http://upload-images.jianshu.io/upload_images/40675-22b537909af62f8c.jpg)
-
+![我曾一度以为星爷电影里的这本书只是用来搞笑的……](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoao138tqj30dw08c0t1.jpg)
 
 我很喜欢为歌剧中不同的场景从不同的电影角色中寻找灵感，比如在瑞士唱布里顿《卢克瑞莎受辱记》中的Male Chorus一角时我会经常看电影《黑客帝国》里Agent Smith的表演；
-![](http://upload-images.jianshu.io/upload_images/40675-93279b9d6265a32b.gif)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoaoc5edig30dw05kx6d.gif)
 
 在澳洲唱斯特拉文斯基《浪子历程》中的Tom Rakewell时，为了演好最后疯人院那一幕，我看了很多遍电影《Bronson》中Tom Hardy的表演；
-![](http://upload-images.jianshu.io/upload_images/40675-badd320ec2d8e71b.gif)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoaojhdzag30dw05kx6d.gif)
 
 在纽约唱《弄臣》第三幕时，导演为了启发我，给了我很多建议，于是我的公爵莫名其妙的借鉴了《蝙蝠侠》里的小丑。 
-![](http://upload-images.jianshu.io/upload_images/40675-075fd57f02406396.gif)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoaowaq0dg30f006ju0x.gif)
 
 我觉得用自己性格中最接近角色的一面来表演，在舞台上时我才能发自内心的活在角色里。
 
