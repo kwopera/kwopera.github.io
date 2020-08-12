@@ -194,9 +194,9 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $crimson;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: "Microsoft YaHei", "微软雅黑",  SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-weight: 300;
   font-size: 20px;
   letter-spacing: 1px;
@@ -303,7 +303,6 @@ footer {
 .posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
