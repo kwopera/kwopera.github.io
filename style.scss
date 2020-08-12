@@ -47,22 +47,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 26px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 14px;
+  font-size: 22px;
 }
 
 h4 {
-  font-size: 12px;
+  font-size: 20px;
   color: $gray;
 }
 
@@ -71,7 +71,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: green;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
