@@ -297,13 +297,14 @@ footer {
 }
 
 .posts li {
+  font-size: 90%;
   line-height: 2em;
 }
 
 .posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-size: 60%;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
