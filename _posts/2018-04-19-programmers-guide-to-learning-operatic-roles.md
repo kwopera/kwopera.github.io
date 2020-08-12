@@ -87,12 +87,15 @@ layout: post
 ![我曾一度以为星爷电影里的这本书只是用来搞笑的……](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoao138tqj30dw08c0t1.jpg)
 
 我很喜欢为歌剧中不同的场景从不同的电影角色中寻找灵感，比如在瑞士唱布里顿《卢克瑞莎受辱记》中的Male Chorus一角时我会经常看电影《黑客帝国》里Agent Smith的表演；
+
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoaoc5edig30dw05kx6d.gif)
 
 在澳洲唱斯特拉文斯基《浪子历程》中的Tom Rakewell时，为了演好最后疯人院那一幕，我看了很多遍电影《Bronson》中Tom Hardy的表演；
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoaojhdzag30dw05kx6d.gif)
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoarsbtevg30b405x4p5.gif)
 
 在纽约唱《弄臣》第三幕时，导演为了启发我，给了我很多建议，于是我的公爵莫名其妙的借鉴了《蝙蝠侠》里的小丑。 
+
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghoaowaq0dg30f006ju0x.gif)
 
 我觉得用自己性格中最接近角色的一面来表演，在舞台上时我才能发自内心的活在角色里。
