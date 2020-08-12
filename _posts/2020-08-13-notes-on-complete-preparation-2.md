@@ -1,5 +1,5 @@
 ---
-title: 读 Complete Preparation 有感（二）
+title: 读《完美的准备》有感（二）
 layout: post
 ---
 
