@@ -1,6 +1,3 @@
----
-title: 读Complete Preparation有感(二)
-layout: post
----
+# 读 Complete Preparation 有感（二）
 
-
+离上一次写这本书的读后感已经六年了，我从一个疫情让我被迫休假，没事的时候我把
