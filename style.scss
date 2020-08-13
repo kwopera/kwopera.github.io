@@ -15,18 +15,11 @@
 
 html {
   font-size: 140%;
-}
-@media only screen and (max-width: 768px) {
-  html {
+  @include mobile {
     font-size: 100%;
   }
 }
 
-@media only screen and (max-width: 320px) {
-  html {
-    font-size: 100%;
-  }
-}
 
 body {
   background: $white;
@@ -171,9 +164,6 @@ img {
   padding: 0;
   border-bottom: 1px solid $lightGray;
 
-  @include mobile {
-    text-align: center;
-  }
 }
 
 .site-avatar {
