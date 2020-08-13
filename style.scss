@@ -16,6 +16,17 @@
 html {
   font-size: 140%;
 }
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 100%;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  html {
+    font-size: 100%;
+  }
+}
 
 body {
   background: $white;
@@ -307,6 +318,8 @@ footer {
   font-family: Monaco, "Courier New", monospace;
   font-size: 70%;
 }
+
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
