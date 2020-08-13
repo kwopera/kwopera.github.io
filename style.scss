@@ -16,7 +16,7 @@
 html {
   font-size: 140%;
   @include mobile {
-    font-size: 100%;
+    font-size: 120%;
   }
 }
 
@@ -291,7 +291,6 @@ footer {
 /*
 /*****************************************************************************/
 .posts {
-  font-size: 90%;
   list-style-type: none;
   margin-bottom: 2em;
   margin-left: 0;
