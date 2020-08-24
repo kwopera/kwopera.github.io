@@ -13,8 +13,9 @@ layout: post
 
 再完美的准备，其实上场前还是会因为各种有原因而多多少少有一些紧张的，有时你会想要“超常”发挥，有时你会担心自己的表现没有上一场完美而有心理负担。我有一个小习惯是，上场之前告诉自己，只要正常发挥自己的平均水平就可以了，不要期望过多，舞台上的呈现，永远会是自己私下苦练的平均水平的表现，所以带着一个平常心，告诉自己正常发挥就好。另外我还有一个习惯，上台的时候，会向舞台下面的评委/经理/观众们热情的笑一下，我总是觉得这样的笑容会让我自己格外得放松。很多年前看过一个程序员的博客，里面一篇文章讲到国外一部 1995 年上映的电影《第一骑士》（First Knight）中的第一幕，其中骑士兰斯洛特与人比武后说的一段话，我觉得对我们的舞台生涯莫名的适用：
 
-<iframe height='265' scrolling='no' title='兰斯洛特：你还要将自己的生死置之度外' src='//player.bilibili.com/player.html?bvid=BV1w5411h7Bx&page=1' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>兰斯洛特：你还要将自己的生死置之度外
+<iframe height='360' scrolling='no' title='兰斯洛特：你还要将自己的生死置之度外' src='//player.bilibili.com/player.html?bvid=BV1w5411h7Bx&page=1' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>兰斯洛特：你还要将自己的生死置之度外
 </iframe>
+
 
 兰斯洛特找到了一个办法让他在战斗中的压力降为 0 ，如果他不在乎生与死, 那么没有任何事情可以影响他的发挥，他不再去考虑如果他能活过一场战斗, 所以没有东西会扰乱他的思路或者是影响他的能力，他变成了技巧与专注的化身。
 
