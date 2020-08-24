@@ -1,5 +1,5 @@
 ---
-title: 一场声乐比赛的赛后问答随想
+title: 赛后问答随想
 layout: post
 ---
 
