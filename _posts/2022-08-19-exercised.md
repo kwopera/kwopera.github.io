@@ -1,5 +1,5 @@
 ---
-title: Exercised 内容提要
+title: Exercised 读书总结
 layout: post
 ---
 
