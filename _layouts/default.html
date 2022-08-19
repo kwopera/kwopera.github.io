@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title><img src="{{ site.baseurl }}/images/cabbage.png" />{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
   {% include meta.html %}
 
@@ -21,7 +21,7 @@
       <header class="masthead clearfix">
 
         <div class="site-info">
-          <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <h1 class="site-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/cabbage.png" />{{ site.name }}</a></h1>
         </div>
       </header>
     </div>
