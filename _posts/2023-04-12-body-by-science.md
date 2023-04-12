@@ -1,5 +1,5 @@
 ---
-title: Body by Science 作者 Doug McGuff 实用知识点
+title: Body by Science 作者 Doug McGuff 总结
 layout: post
 ---
 
