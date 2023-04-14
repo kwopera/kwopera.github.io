@@ -5,7 +5,7 @@ layout: post
 
 之前在书店发现的一本新书 Exercised：The Science of Physical Activity, Rest and Health by Daniel Lieberman 
 
-![img](https://tva1.sinaimg.cn/large/e6c9d24egy1h5c638l7qzj20u01a2mzq.jpg)
+![img](https://m.media-amazon.com/images/I/71P8sTfBOqL._AC_UF1000,1000_QL80_.jpg)
 
 - 想要夜间睡得好，最好的办法是白天做些运动 
 - 平均算下来，我们有五分之一的卡路里消耗用于维持身体上的肌肉量
