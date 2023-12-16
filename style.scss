@@ -24,7 +24,7 @@ html {
 body {
   // background: #F7F2EA;
   background: white;
-  font-family:Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  // font-family:Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, 'PingFang SC', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font: 22px;
   color: black;
   line-height: 2em;
@@ -201,7 +201,7 @@ strong, b {
   margin: 0;
   color: maroon;
   cursor: pointer;
-  font-family: Optima;
+  // font-family: Optima;
   font-weight: 300;
   font-size: 90%;
   letter-spacing: 1px;
@@ -220,7 +220,7 @@ strong, b {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  // font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
@@ -307,7 +307,7 @@ footer {
 
 .posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  // font-family: Monaco, "Courier New", monospace;
   font-size: 70%;
 }
 
